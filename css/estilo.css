@@ -1,0 +1,100 @@
+ 
+#selected{
+    color: aqua;
+}
+a:hover{
+    color: aqua;
+}
+.log{
+    position: left;
+    width: 300px;
+    height: 700px;
+    padding-left: 50px;
+    border-radius: 10px;
+    padding-top: 80px;
+    background-color: green;
+    color:white;
+    margin-left: 600px;
+}
+
+nav{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+li{
+    color: white;
+}
+.menu a{
+    float left;
+    background-color: transparent;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;;;
+    margin-left: -10%;
+}
+
+
+#selected {
+    color: aqua;
+}
+ul{
+    list-style: none;
+    padding: 10px;
+    display: inline;
+}
+.b{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+
+.barra{
+    margin-top: 110px;
+    height: 250px;
+    text-align: center;
+}.header{
+    float: right;
+    
+    margin-right: 310px;
+    text-align: center;
+    display: block;
+}
+a{
+    text-align: center;
+    margin-right: 10px;
+   
+}
+
+body{    
+     
+     background-size: cover; 
+     background-repeat: no-repeat;
+     height: 50%;
+}
+
+
+a{
+    text-align: center;
+    margin-right: 10px;
+   
+}
+ input{
+    border: solid 0;
+    border-radius: 3px;
+}
+
+input[type=text], input[type=password]{
+    padding: 10px;
+    font-size: 18px;
+    outline: none;
+    width: 370px;
+}
+
+
+
+
+
+
